@@ -16,19 +16,14 @@
 ## Habilidades tecnicas
 
 **Lenguajes:**
-`Python` `JavaScript` `Java` `C++`
+`Python` `Java` 
 
-**Frameworks y herramientas:**
-`React` `Node.js` `Git` `Docker`
-
-**Bases de datos:**
-`MySQL` `MongoDB`
 
 ## Proyectos destacados
 
 | Proyecto | Descripcion | Tecnologias |
 |----------|-------------|-------------|
-| Sistema de gestion estudiantil | App web para administrar notas y horarios | React, Node.js, MongoDB |
+| VECTORES TRIDIMENCIONALES | programa en python | pc |
 | Chatbot universitario | Bot de asistencia para dudas frecuentes | Python, NLP |
 | App de tareas | Aplicacion movil para organizar tareas | Flutter, Firebase |
 
